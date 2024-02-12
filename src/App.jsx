@@ -1,3 +1,4 @@
+import React from "react";
 import Player from "./components/Player.jsx";
 import TimerChallenge from "./components/TimerChallenge.jsx";
 
